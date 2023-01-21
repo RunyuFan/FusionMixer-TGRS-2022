@@ -23,8 +23,8 @@ If it is helpful for you, please cite the following references.
   
       pages={1-13},
   
-      doi={https://doi.org/10.1016/j.jag.2022.102831},
+      doi={10.1109/TGRS.2022.3208166}, 
       
-      url={10.1109/TGRS.2022.3208166}
+      url={https://ieeexplore.ieee.org/document/9895454}
       
     }

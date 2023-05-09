@@ -3,6 +3,7 @@
 This repository is for our TGRS paper (2022): "Multilevel Spatial-Channel Feature Fusion Network for Urban Village Classification by Fusing Satellite and Streetview Images". Please refer to https://ieeexplore.ieee.org/abstract/document/9895454 .
 
 The S2UV dataset is obtained from https://www.scidb.cn/en/detail?dataSetId=14e27d8c51ec40079b84591e9bb24df6.
+
 The RsSt-ShenzhenUV is obtained from：
 链接：https://pan.baidu.com/s/1cpNo0CqHiwxC05wHotU8eQ?pwd=e22u 
 提取码：e22u 

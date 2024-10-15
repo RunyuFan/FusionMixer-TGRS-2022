@@ -7,8 +7,8 @@ The S2UV dataset is obtained from https://www.scidb.cn/en/detail?dataSetId=14e27
 The RsSt-ShenzhenUV is obtained from：(2024/08/27 released)
 
 通过百度网盘分享的文件：樊润宇-RsSt-ShenzhenUV数据集.zip
-链接：https://pan.baidu.com/s/1OpCEGqiqLaEivMH6Lq2mCA?pwd=mqnp 
-提取码：mqnp 
+链接：https://pan.baidu.com/s/1ShWdyU6TaZ85WNLLfAasTw?pwd=rx35 
+提取码：rx35 
 --来自百度网盘超级会员V4的分享
 
 If it is helpful for you, please cite the following references.

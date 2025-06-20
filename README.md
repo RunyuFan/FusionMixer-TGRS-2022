@@ -46,7 +46,7 @@ If it is helpful for you, please cite the following references.
 }
 ```
 ```
-    @ARTICLE{RunyuFan,
+@ARTICLE{RunyuFan,
       author={Fan, Runyu and Li, Jun and Li, Fengpeng and Han, Wei and Wang, Lizhe},
       journal={IEEE Transactions on Geoscience and Remote Sensing}, 
       title={Multilevel Spatial-Channel Feature Fusion Network for Urban Village Classification by Fusing Satellite and Streetview Images}, 
